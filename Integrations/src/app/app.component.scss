@@ -1,0 +1,22 @@
+.center{
+    text-align: center;
+}
+.inputsBack{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 5;
+}
+
+.inputsBack div{
+    padding-right: 0!important;
+}
+
+.request{
+    font-weight: bold;
+}
+
+.volumeButton{
+    font-size: 20px;
+    cursor: pointer;
+}
